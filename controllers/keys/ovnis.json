@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ovn-is",
+  "private_key_id": "096a48d5f92cbf26766de87497b3d07cc79e5053",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCXG9U50OYAyO6Q\nlTR6l+o2yaI8fBvoC5FP8vm4s4PsgjCIEPf2b3Bhbax+nahNswMH9n3n8MSK2xoI\nngJp2nrIrPdLl0WrMCUIVgUEiJowbqNLBL7u0SlQAMqKw8QDhJbGyOmMi8gdndq6\nGLO8O4DtsUDwMjceaZUvrBsbeh38kkcfgONLMhiMEuo6AAVLtTcubrVbKVuTIVnS\nQl4PtCfPbEvnUyZapjowuBKXoxJLyH1HUXeH6rk5jX5cqhq81BYXIQA2LEALSXsL\nFyY3/jl+PzzSsQzXrXsafidXlE9xc7915pJUW0jHZtWMFTC+Zp6Q0wCf3MskXikJ\n157PM9qPAgMBAAECggEAAT3azitPwIDmKOz47eryozmb6ihQ6GKz8na6I5DiDB7z\nvCJ7jxxSTZKjoLS17dGDPF0DotTBIKz1NU3rEiiX6q81JvtauLHgFAX065kdvzkh\ngVvMH9U7JCulfmdmZGsB/CcpeByr68ZgxjeuvmS0xf83W+Hlvwu6DJa68EpcFbew\nva+GzLivL1FMV7WW9qzwM2xkcRMKZ+p0Y9RwRA8LxHe5ZdT8eu4S575y7CTdxoRy\nN+wrPVbzOvEQMDuZreQ36CH+VXdVCfCDT8hrReGRmbPqYEjlMZwWeO6zSfPhJVsQ\n9DV05+6YZCvulRjVhZFNB9I0i8LAigLrj8g6SIDcMQKBgQDSCB8ZR75+iV3yliN7\nElJKKn5x9kFtVITEwOkY7broG4yqQQimQhoL5eN8GJHSMCjiGJGQbRinNGJdCj9D\n2BRvJLwZIZjoYdZU4qpoWmZ3LbAeCMnEtfbhdOfWnn3QZ9msMirvgiigYdJcxfiW\n2UiSjrm3CG2sg6mP3uvj/35nkQKBgQC4Lk+7KIo6N7ixwOSKGRszM6ve3TBwDEk+\nLEo/55bsvWKqp8W3hOlvvuVioljV6ZoG7AKeXYX5WeMLydeCRvdehRnOYQkAD2W3\n9qLo+9sJQdBzE3XpDOZWm0i4hiP/hRqFtDTOnD1wLGECJi5fOwKqQbCGsib0bhhl\nfb1ZAghQHwKBgQCHuPPPtErnHgF1t4uqBgbjIl6fahCRg+Jf+oEmuMjlIJhflLLw\nLRsDwUSldoMUnkZtBI9cEwOxWOqPUQXc448g204pt0pGMKL+K5MO6Av6y61ZWzh3\nQ1cMDi2axMRsng9NdQXFzAhQy6XSiaPAZxy8iDp+ipXEuzghXl508S9P4QKBgQCB\npXfSUrMaT+bemN1GqG2RGSo+coyKEtvru9l4Klj+xEETx41RpWl8k298grLtwMX/\nYVpmh4arAy7jOW1N8w5lpmOH9p4TQMNlP2NlhQOl/IHyvxwctEvfYudJnILydos4\n2qThWvGUaGjQzneN6Ufy+NJ9viHVpTnfFyeV4+xeGQKBgQDBmYRL0imgxJGISR9a\neI2AnbTOjDXWtNeKrHHYdZ9M6MCWp27xK6fya1KXzgXrnb/M0B9wLC/qite048AV\nRMeZibByZZtM1+F7LJRMpUlFcnXDCMfyw1qtNRfZg8DItIu6jfYfcgSP1BWb8SOn\nTqBxNIgeR5Fb6G7RbDSXzMXBWQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ovniscloudupload@ovn-is.iam.gserviceaccount.com",
+  "client_id": "105811569972677560853",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ovniscloudupload%40ovn-is.iam.gserviceaccount.com"
+}
